@@ -59,7 +59,9 @@
                 "use_light_color": "Use light color",
                 "show_color_temp_control": "Temperature color control?",
                 "show_color_control": "Color control?",
-                "incompatible_controls": "Some controls may not be displayed if your light does not support the feature."
+                "incompatible_controls": "Some controls may not be displayed if your light does not support the feature.",
+                "min_brightness": "Minimum brightness",
+                "max_brightness": "Maximum brightness"
             },
             "fan": {
                 "show_percentage_control": "Percentage control?",

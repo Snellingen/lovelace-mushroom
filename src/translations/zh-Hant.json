@@ -59,7 +59,9 @@
                 "use_light_color": "使用燈光顏色",
                 "show_color_temp_control": "色溫控制?",
                 "show_color_control": "色彩控制?",
-                "incompatible_controls": "不會顯示裝置不支援的控制。"
+                "incompatible_controls": "不會顯示裝置不支援的控制。",
+                "min_brightness": "最小亮度",
+                "max_brightness": "最大亮度"
             },
             "fan": {
                 "show_percentage_control": "百分比控制?",

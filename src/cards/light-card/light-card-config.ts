@@ -1,4 +1,4 @@
-import { assign, boolean, object, optional, string } from "superstruct";
+import { assign, boolean, integer, object, optional, string } from "superstruct";
 import { LovelaceCardConfig } from "../../ha";
 import { ActionsSharedConfig, actionsSharedConfigStruct } from "../../shared/config/actions-config";
 import {
@@ -18,6 +18,8 @@ export type LightCardConfig = LovelaceCardConfig &
         show_color_control?: boolean;
         collapsible_controls?: boolean;
         use_light_color?: boolean;
+        min_brightness?: number;
+        max_brightness?: number;
     };
 
 export const lightCardConfigStruct = assign(
@@ -30,5 +32,7 @@ export const lightCardConfigStruct = assign(
         show_color_control: optional(boolean()),
         collapsible_controls: optional(boolean()),
         use_light_color: optional(boolean()),
+        min_brightness: optional(integer()),
+        max_brightness: optional(integer()),
     })
 );

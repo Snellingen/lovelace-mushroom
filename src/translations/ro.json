@@ -58,7 +58,9 @@
                 "use_light_color": "Folosește culoarea luminii",
                 "show_color_temp_control": "Comandă pentru temperatură de culoare?",
                 "show_color_control": "Comandă pentru culoare?",
-                "incompatible_controls": "Unele comenzi ar putea să nu fie afișate dacă lumina nu suportă această caracteristică."
+                "incompatible_controls": "Unele comenzi ar putea să nu fie afișate dacă lumina nu suportă această caracteristică.",
+                "min_brightness": "Strălucire minimă",
+                "max_brightness": "Strălucire maximă"
             },
             "fan": {
                 "icon_animation": "Animare pictograma la activare?",

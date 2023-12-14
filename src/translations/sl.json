@@ -59,7 +59,9 @@
                 "use_light_color": "Uporabi svetlo barvo",
                 "show_color_temp_control": "Nadzor temperature barve?",
                 "show_color_control": "Nadzor barv?",
-                "incompatible_controls": "Nekateri kontrolniki morda ne bodo prikazani, če vaša luč ne podpira te funkcije."
+                "incompatible_controls": "Nekateri kontrolniki morda ne bodo prikazani, če vaša luč ne podpira te funkcije.",
+                "min_brightness": "Najmanjša svetlost",
+                "max_brightness": "Največja svetlost"
             },
             "fan": {
                 "show_percentage_control": "Kontrola v odstotkih?",

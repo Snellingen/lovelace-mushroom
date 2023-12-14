@@ -46,7 +46,9 @@
                 "use_light_color": "Styr ljusets färg",
                 "show_color_temp_control": "Styr färgtemperatur?",
                 "show_color_control": "Styr färg?",
-                "incompatible_controls": "Kontroller som inte stöds av enheten kommer inte visas."
+                "incompatible_controls": "Kontroller som inte stöds av enheten kommer inte visas.",
+                "min_brightness": "Minsta ljushet",
+                "max_brightness": "Högsta ljushet"
             },
             "fan": {
                 "show_percentage_control": "Procentuell kontroll?",

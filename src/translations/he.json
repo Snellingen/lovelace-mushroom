@@ -50,7 +50,9 @@
                 "use_light_color": "השתמש בצבע האור",
                 "show_color_temp_control": "הצג פקד גוון תאורה?",
                 "show_color_control": "הצג פקד צבע",
-                "incompatible_controls": "יתכן וחלק מהכפתורים לא יופיעו אם התאורה אינה תומכת בתכונה."
+                "incompatible_controls": "יתכן וחלק מהכפתורים לא יופיעו אם התאורה אינה תומכת בתכונה.",
+                "min_brightness": "בהירות מינימלית",
+                "max_brightness": "בהירות מקסימלית"
             },
             "fan": {
                 "show_percentage_control": "שליטה באחוז?",

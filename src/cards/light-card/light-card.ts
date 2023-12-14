@@ -290,6 +290,8 @@ export class LightCard extends MushroomBaseCard implements LovelaceCard {
                     <mushroom-light-brightness-control
                         .hass=${this.hass}
                         .entity=${entity}
+                        .minBrightness=${this._config?.min_brightness ?? 0}
+                        .maxBrightness=${this._config?.max_brightness ?? 100}
                         style=${styleMap(sliderStyle)}
                         @current-change=${this.onCurrentBrightnessChange}
                     />

@@ -59,7 +59,9 @@
                 "use_light_color": "Použiť farbu svetla",
                 "show_color_temp_control": "Ovládanie teploty?",
                 "show_color_control": "Ovládanie farby?",
-                "incompatible_controls": "Niektoré ovládacie prvky sa nemusia zobraziť, pokiaľ ich svetlo nepodporuje."
+                "incompatible_controls": "Niektoré ovládacie prvky sa nemusia zobraziť, pokiaľ ich svetlo nepodporuje.",
+                "min_brightness": "Minimálny jas",
+                "max_brightness": "Maximálny jas"
             },
             "fan": {
                 "show_percentage_control": "Ovládanie rýchlosti v percentách?",

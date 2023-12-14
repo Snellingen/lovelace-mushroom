@@ -59,7 +59,9 @@
                 "show_brightness_control": "Controllo luminosità",
                 "show_color_temp_control": "Controllo temperatura",
                 "show_color_control": "Controllo colore",
-                "incompatible_controls": "Alcuni controlli potrebbero non essere mostrati se la tua luce non li supporta."
+                "incompatible_controls": "Alcuni controlli potrebbero non essere mostrati se la tua luce non li supporta.",
+                "min_brightness": "Luminosità minima",
+                "max_brightness": "Luminosità massima"
             },
             "fan": {
                 "show_percentage_control": "Controllo potenza",

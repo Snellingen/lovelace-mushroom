@@ -48,7 +48,9 @@
                 "use_light_color": "Işık rengini kullan",
                 "show_color_temp_control": "Renk ısısı kontrolü",
                 "show_color_control": "Renk kontrolü",
-                "incompatible_controls": "Kullandığınız lamba bu özellikleri desteklemiyorsa bazı kontroller görüntülenemeyebilir."
+                "incompatible_controls": "Kullandığınız lamba bu özellikleri desteklemiyorsa bazı kontroller görüntülenemeyebilir.",
+                "min_brightness": "Minimum parlaklık",
+                "max_brightness": "Maksimum parlaklık"
             },
             "fan": {
                 "show_percentage_control": "Yüzde kontrolü",

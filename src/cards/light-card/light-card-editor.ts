@@ -14,6 +14,8 @@ import { LightCardConfig, lightCardConfigStruct } from "./light-card-config";
 
 export const LIGHT_LABELS = [
     "show_brightness_control",
+    "min_brightness",
+    "max_brightness",
     "use_light_color",
     "show_color_temp_control",
     "show_color_control",
@@ -42,6 +44,8 @@ const SCHEMA: HaFormSchema[] = [
             { name: "collapsible_controls", selector: { boolean: {} } },
         ],
     },
+    { name: "min_brightness", selector: { number: { min: 0, max: 100, step: 1, mode: "slider" } }, default: 0 },
+    { name: "max_brightness", selector: { number: { min: 0, max: 100, step: 1, mode: "slider" } }, default: 100 },
     ...computeActionsFormSchema(),
 ];
 

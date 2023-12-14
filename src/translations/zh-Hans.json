@@ -59,7 +59,9 @@
                 "use_light_color": "使用灯光颜色",
                 "show_color_temp_control": "色温控制?",
                 "show_color_control": "颜色控制?",
-                "incompatible_controls": "设备不支持的控制器将不会显示。"
+                "incompatible_controls": "设备不支持的控制器将不会显示。",
+                "min_brightness": "最小亮度",
+                "max_brightness": "最大亮度"
             },
             "fan": {
                 "show_percentage_control": "百分比控制?",

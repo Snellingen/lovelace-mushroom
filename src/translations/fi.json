@@ -59,7 +59,9 @@
                 "use_light_color": "Käytä valaisimen väriä",
                 "show_color_temp_control": "Värilämpötilan säätö?",
                 "show_color_control": "Värin säätö?",
-                "incompatible_controls": "Jotkin toiminnot eivät näy, jos valaisimesi ei tue niitä."
+                "incompatible_controls": "Jotkin toiminnot eivät näy, jos valaisimesi ei tue niitä.",
+                "min_brightness": "Minimikirkkaus",
+                "max_brightness": "Maksimikirkkaus"
             },
             "fan": {
                 "show_percentage_control": "Prosentuaalinen säätö?",

@@ -59,7 +59,9 @@
                 "use_light_color": "Dùng màu đèn",
                 "show_color_temp_control": "Điều khiển nhiệt độ màu?",
                 "show_color_control": "Điều khiển màu sắc?",
-                "incompatible_controls": "Một số điều khiển sẽ không được hiển thị nếu đèn của bạn không hỗ trợ tính năng đó."
+                "incompatible_controls": "Một số điều khiển sẽ không được hiển thị nếu đèn của bạn không hỗ trợ tính năng đó.",
+                "min_brightness": "Độ sáng tối thiểu",
+                "max_brightness": "Độ sáng tối đa"
             },
             "fan": {
                 "show_percentage_control": "Điều khiển dạng phần trăm?",

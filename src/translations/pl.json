@@ -59,7 +59,9 @@
                 "use_light_color": "Użyj koloru światła",
                 "show_color_temp_control": "Sterowanie temperaturą światła?",
                 "show_color_control": "Sterowanie kolorami?",
-                "incompatible_controls": "Niektóre funkcje są niewidoczne, jeśli światło ich nie obsługuje."
+                "incompatible_controls": "Niektóre funkcje są niewidoczne, jeśli światło ich nie obsługuje.",
+                "min_brightness": "Minimalna jasność",
+                "max_brightness": "Maksymalna jasność"
             },
             "fan": {
                 "show_percentage_control": "Sterowanie procentowe?",

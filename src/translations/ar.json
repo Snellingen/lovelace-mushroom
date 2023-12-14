@@ -59,7 +59,9 @@
                 "use_light_color": "استخدم لون فاتح",
                 "show_color_temp_control": "التحكم في حرارة اللون؟",
                 "show_color_control": "التحكم في اللون؟",
-                "incompatible_controls": "قد لا يتم عرض بعض عناصر التحكم إذا كان الضوء الخاص بك لا يدعم الميزة."
+                "incompatible_controls": "قد لا يتم عرض بعض عناصر التحكم إذا كان الضوء الخاص بك لا يدعم الميزة.",
+                "min_brightness": "السطوع الأدنى",
+                "max_brightness": "السطوع الأقصى"
             },
             "fan": {
                 "show_percentage_control": "التحكم في النسبة المئوية؟",

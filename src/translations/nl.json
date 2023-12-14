@@ -59,7 +59,9 @@
                 "use_light_color": "Gebruik licht kleur",
                 "show_color_temp_control": "Bediening kleurtemperatuur",
                 "show_color_control": "Bediening kleur",
-                "incompatible_controls": "Sommige bedieningselementen worden mogelijk niet weergegeven als uw lamp deze functie niet ondersteunt."
+                "incompatible_controls": "Sommige bedieningselementen worden mogelijk niet weergegeven als uw lamp deze functie niet ondersteunt.",
+                "min_brightness": "Minimale helderheid",
+                "max_brightness": "Maximale helderheid"
             },
             "fan": {
                 "show_percentage_control": "Bediening middels percentage",

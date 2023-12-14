@@ -59,7 +59,9 @@
                 "use_light_color": "Fény szín használata",
                 "show_color_temp_control": "Színhőmérséklet vezérlő",
                 "show_color_control": "Szín vezérlő",
-                "incompatible_controls": "Azok a vezérlők nem lesznek megjelenítve, amelyeket a fényforrás nem támogat."
+                "incompatible_controls": "Azok a vezérlők nem lesznek megjelenítve, amelyeket a fényforrás nem támogat.",
+                "min_brightness": "Minimális fényerő",
+                "max_brightness": "Maximális fényerő"
             },
             "fan": {
                 "show_percentage_control": "Százalékos vezérlő",

@@ -27,6 +27,8 @@ All the options are available in the lovelace editor but you can use `yaml` if y
 | `show_color_control`      | boolean                                             | `false`     | Show a slider to control RGB color                                                  |
 | `collapsible_controls`    | boolean                                             | `false`     | Collapse controls when off                                                          |
 | `use_light_color`         | boolean                                             | `false`     | Colorize the icon and slider according light temperature or color                   |
+| `min_brightness`          | integer                                             | `0`         | Minimum brightness for the slider                                                   |
+| `max_brightness`          | integer                                             | `100`       | Maximum brightness for the slider                                                   |
 | `tap_action`              | action                                              | `toggle`    | Home assistant action to perform on tap                                             |
 | `hold_action`             | action                                              | `more-info` | Home assistant action to perform on hold                                            |
 | `double_tap_action`       | action                                              | `more-info` | Home assistant action to perform on double_tap                                      |

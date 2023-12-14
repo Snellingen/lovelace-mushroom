@@ -48,7 +48,9 @@
                 "use_light_color": "Bruk lys farge",
                 "show_color_temp_control": "Temperatur fargekontroll?",
                 "show_color_control": "Fargekontroll?",
-                "incompatible_controls": "Noen kontroller vises kanskje ikke hvis lyset ditt ikke støtter denne funksjonen."
+                "incompatible_controls": "Noen kontroller vises kanskje ikke hvis lyset ditt ikke støtter denne funksjonen.",
+                "min_brightness": "Minimum lysstyrke",
+                "max_brightness": "Maksimum lysstyrke"
             },
             "fan": {
                 "show_percentage_control": "Prosentvis kontroll?",

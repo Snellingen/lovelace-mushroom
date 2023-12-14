@@ -59,7 +59,9 @@
                 "use_light_color": "Ikona podle barvy světla?",
                 "show_color_temp_control": "Ovládání teploty světla?",
                 "show_color_control": "Ovládání barvy světla?",
-                "incompatible_controls": "Některé ovládací prvky se nemusí zobrazit, pokud vaše světlo tuto funkci nepodporuje."
+                "incompatible_controls": "Některé ovládací prvky se nemusí zobrazit, pokud vaše světlo tuto funkci nepodporuje.",
+                "min_brightness": "Minimální jas",
+                "max_brightness": "Maximální jas"
             },
             "fan": {
                 "show_percentage_control": "Ovládání v procentech?",

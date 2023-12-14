@@ -59,7 +59,9 @@
                 "use_light_color": "Usar color de la luz",
                 "show_color_temp_control": "¿Controlar temperatura del color?",
                 "show_color_control": "¿Controlar color?",
-                "incompatible_controls": "Es posible que algunos controles no se muestren si la luz no es compatible con esta función."
+                "incompatible_controls": "Es posible que algunos controles no se muestren si la luz no es compatible con esta función.",
+                "min_brightness": "Brillo mínimo",
+                "max_brightness": "Brillo máximo"
             },
             "fan": {
                 "show_percentage_control": "¿Controlar porcentaje?",

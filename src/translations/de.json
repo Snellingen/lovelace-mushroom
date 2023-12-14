@@ -59,7 +59,9 @@
                 "use_light_color": "Farbsteuerung verwenden",
                 "show_color_temp_control": "Farbtemperatursteuerung?",
                 "show_color_control": "Farbsteuerung?",
-                "incompatible_controls": "Einige Steuerelemente werden möglicherweise nicht angezeigt, wenn Ihr Licht diese Funktion nicht unterstützt."
+                "incompatible_controls": "Einige Steuerelemente werden möglicherweise nicht angezeigt, wenn Ihr Licht diese Funktion nicht unterstützt.",
+                "min_brightness": "Minimale Helligkeit",
+                "max_brightness": "Maximale Helligkeit"
             },
             "fan": {
                 "show_percentage_control": "Prozentuale Kontrolle?",

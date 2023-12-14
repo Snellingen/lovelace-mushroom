@@ -10,6 +10,11 @@ export class LightBrighnessControl extends LitElement {
 
     @property({ attribute: false }) public entity!: LightEntity;
 
+    @property({ attribute: false }) public minBrightness = 0;
+
+    @property({ attribute: false }) public maxBrightness = 100;
+    
+
     onChange(e: CustomEvent<{ value: number }>): void {
         const value = e.detail.value;
         this.hass.callService("light", "turn_on", {
@@ -38,6 +43,8 @@ export class LightBrighnessControl extends LitElement {
                 .disabled=${!isAvailable(this.entity)}
                 .inactive=${!isActive(this.entity)}
                 .showActive=${true}
+                .min=${this.minBrightness}
+                .max=${this.maxBrightness}
                 @change=${this.onChange}
                 @current-change=${this.onCurrentChange}
             />

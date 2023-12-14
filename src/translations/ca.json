@@ -59,7 +59,9 @@
                 "use_light_color": "Fes servir el color del llum",
                 "show_color_temp_control": "Control de la temperatura del color?",
                 "show_color_control": "Control de color?",
-                "incompatible_controls": "Alguns controls no es mostraran si l'entitat no suporta eixa funció."
+                "incompatible_controls": "Alguns controls no es mostraran si l'entitat no suporta eixa funció.",
+                "min_brightness": "Brillantor mínima",
+                "max_brightness": "Brillantor màxima"
             },
             "fan": {
                 "show_percentage_control": "Control de percentatge?",
